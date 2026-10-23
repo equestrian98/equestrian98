@@ -2,6 +2,8 @@
 
 # Hey, I'm Phillip-Luca 👋
 
+![Phillip-Luca Bauers GitHub Stats](https://github-readme-stats.vercel.app/api?username=equestrian98&theme=default&show_icons=true&hide_border=true&count_private=true)
+
 ### Backend Development · Cloud Infrastructure · Cyber Security
 
 <a href="https://goberly.com">
